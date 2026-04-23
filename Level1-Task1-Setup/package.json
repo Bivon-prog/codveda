@@ -1,0 +1,16 @@
+{
+  "name": "level1-task1-setup",
+  "version": "1.0.0",
+  "description": "Development environment setup for full-stack assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Development environment is ready!\"",
+    "verify": "node --version && npm --version",
+    "setup": "echo 'Setting up development environment...'"
+  },
+  "keywords": ["setup", "environment", "nodejs", "npm", "git"],
+  "author": "Codveda Intern",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
